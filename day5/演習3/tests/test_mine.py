@@ -112,4 +112,3 @@ def test_model_recall(train_model):
 
     # Titanicデータセットでは0.75以上の精度が一般的に良いとされる
     assert recall >= 0.75, f"モデルの精度が低すぎます: {recall}"
-
