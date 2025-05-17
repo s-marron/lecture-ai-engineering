@@ -6,3 +6,6 @@ forkして変更してみました。
 
 fork元の変更を取り込む
 https://leico.github.io/TechnicalNote/Git/pull-fork-origin
+
+
+change in develop branch
